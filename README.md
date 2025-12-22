@@ -1,17 +1,17 @@
 <!-- 🌈 Aesthetic Header using Capsule-Render -->
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&textBg=false&animation=twinkling&fontColor=FFFF)
+![header]([https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&textBg=false&animation=twinkling&fontColor=FFFF](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&textBg=false&animation=twinkling&fontColor=FFFF))
 
-<h1 align="center">Hi, I’m <strong>Your Name</strong> 👨‍💻</h1>
+<h1 align="center">Hi, I’m <strong>Muzaina</strong> 👨‍💻</h1>
 <p align="center">A passionate developer crafting beautiful experiences & efficient solutions.</p>
 
 ---
 
 ## 🚀 About Me
 ```yaml
-Name: "Your Name"
+Name: "Muzaina Munir"
 Role: "Full-Stack Developer"
-Location: "City, Country"
-Education: "Your University / Bootcamp"
+Location: "Karachi, Pakistann"
+Education: "Cedar College"
 Currently: "Working on Open Source / Learning New Things"
 ```
 💻 Tech Stack
