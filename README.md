@@ -1,5 +1,5 @@
 <!-- 🌈 Aesthetic Header using Capsule-Render -->
-![header]([https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&textBg=false&animation=twinkling&fontColor=FFFF](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&textBg=false&animation=twinkling&fontColor=FFFF))
+![header](<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/eHQ5BsgBIBIGI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/movie-film-eHQ5BsgBIBIGI">via GIPHY</a></p>)
 
 <h1 align="center">Hi, I’m <strong>Muzaina</strong> 👨‍💻</h1>
 <p align="center">A passionate developer crafting beautiful experiences & efficient solutions.</p>
