@@ -17,13 +17,9 @@ Currently: "Working on Open Source / Learning New Things"
 💻 Tech Stack
 <p align="center"> <!-- Add icons for languages & frameworks --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/> <!-- Add more as needed --> </p>
 🔭 Projects
-✨ Featured
-Project	Description	Link
-Awesome App	A full-stack app with React & Node.js	🔗 View Repo
-Design System	A modular CSS UI kit	🔗 View Repo
-API Toolkit	Handy REST APIs in Go	🔗 View Repo
 
-👉 Check out more: https://github.com/yourname?tab=repositories
+
+👉 Check out more: https://github.com/5-07?tab=repositories
 
 📫 Let's Connect
 <p align="center"> <a href="https://linkedin.com/in/yourhandle"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat"/> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat"/> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&style=flat"/> </a> </p>
