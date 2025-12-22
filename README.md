@@ -1,6 +1,6 @@
 <!-- 🌈 Aesthetic Header using Capsule-Render -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=120&text=Hello%20There!%20👋](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&textBg=false&animation=twinkling&fontColor=FFFF)" alt="Aesthetic Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&textBg=false&animation=twinkling&fontColor=FFFF" alt="Aesthetic Header"/>
 </p>
 
 <h1 align="center">Hi, I’m <strong>Your Name</strong> 👨‍💻</h1>
