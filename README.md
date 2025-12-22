@@ -1,86 +1,49 @@
-<!-- ================================= -->
-<!--        ART GALLERY HEADER         -->
-<!-- ================================= -->
+<!-- ===================== -->
+<!-- 🎨 Gallery Entrance   -->
+<!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=enter%20the%20gallery&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=191970,5d76cb&height=140&fontSize=48&text=✨%20Curated%20Exhibition%20%2F%20Dev%20Space"
+    alt="Gallery Header" />
 </p>
 
-<p align="center">
-  <em>a digital exhibition of code, art, and quiet obsession</em>
+<p align="center" style="font-size:18px;color:#5d76cb;">
+  a visual anthology of code, thought, and creation
 </p>
 
 ---
 
-<!-- ================================= -->
-<!--            ASCII ART              -->
-<!-- ================================= -->
-
-<pre align="center">
-███████╗ █████╗ ██████╗ ████████╗
-██╔════╝██╔══██╗██╔══██╗╚══██╔══╝
-█████╗  ███████║██████╔╝   ██║   
-██╔══╝  ██╔══██║██╔══██╗   ██║   
-███████╗██║  ██║██║  ██║   ██║   
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
-
-— code as composition
-— bugs as brushstrokes
-— repos as rooms
-</pre>
-
----
-
-## 🧑‍🎨 Artist Statement
+## 🧑‍🎨 About the Artist
 
 ```yaml
-name: "Muzaina (placeholder allowed)"
-role: "Creative Technologist"
+name: "Muzaina Doe"
+role: "Creative Technologist & Visual Storyteller"
+location: "Karachi, Pakistan"
 mediums:
-  - code
-  - interfaces
-  - visual systems
-themes:
-  - identity
-  - healthcare
-  - ethical ai
-  - human-centered design
-currently_exploring:
-  - generative visuals
-  - interactive web
-
-I treat software like an installation.
-Every interaction is intentional.
-Every repo is a room.
-
-<!-- ================================= --> <!-- MOODBOARD WALL --> <!-- ================================= -->
-🖼️ Moodboard (Gallery Wall I)
-<p align="center"> <img src="https://images.unsplash.com/photo-1541963463532-d68292c34b19" width="30%" /> <img src="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70" width="30%" /> <img src="https://images.unsplash.com/photo-1511765224389-37f0e77cf0eb" width="30%" /> </p> <p align="center"> <em>light • structure • negative space</em> </p>
-<!-- ================================= --> <!-- SKILL SET --> <!-- ================================= -->
-🛠️ Mediums & Tools
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/> </p> <p align="center"> <em>tools are brushes — intention is the style</em> </p>
-<!-- ================================= --> <!-- GALLERY STATS --> <!-- ================================= -->
-📊 Exhibition Metrics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%"/> </p>
-<!-- ================================= --> <!-- FEATURED WORKS --> <!-- ================================= -->
-🖋️ Selected Works
-Title	Description
-Trajectory	a web experience exploring motion, growth, and progress
-Sehat Saathi	healthcare systems as public infrastructure
-Jester	playful ai flashcards with a deck-of-cards aesthetic
-
-<em>(links intentionally omitted — mystery increases perceived value)</em>
-
-<!-- ================================= --> <!-- MOODBOARD II --> <!-- ================================= -->
-🖼️ Moodboard (Gallery Wall II)
-<p align="center"> <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" width="45%" /> <img src="https://images.unsplash.com/photo-1500534623283-312aade485b7" width="45%" /> </p> <p align="center"> <em>architecture • grids • restraint</em> </p>
-<!-- ================================= --> <!-- PHILOSOPHY --> <!-- ================================= -->
-💭 Curator Notes
-
-“Good design is honest.” — Dieter Rams
-“Code is a cultural artifact.”
-“If it’s not human, it’s not finished.”
-
-<!-- ================================= --> <!-- FOOTER --> <!-- ================================= --> <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&style=flat-square"/> </p> <p align="center"> <em>thank you for visiting the exhibition</em> </p> ```
+  - code as art
+  - interactive experiences
+  - generative systems
+focus:
+  - expressive UI & UX
+  - wearable logic & emotion
   - systems that feel alive
-location: "somewhere between art & logic"
+
+```
+<p align="center"> <span style="background:#191970;width:60px;height:60px;display:inline-block;border-radius:8px;"></span> <span style="background:#002395;width:60px;height:60px;display:inline-block;border-radius:8px;"></span> <span style="background:#00416a;width:60px;height:60px;display:inline-block;border-radius:8px;"></span> <span style="background:#1560bd;width:60px;height:60px;display:inline-block;border-radius:8px;"></span> <span style="background:#5d76cb;width:60px;height:60px;display:inline-block;border-radius:8px;"></span> </p> <p align="center" style="color:#00416a;"> serene • refined • contemplative • cohesive </p>
+
+<h3 Connect with Me>
+<p align="center"> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/badge/GitHub-%23191070.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-%23002395.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/yourprofile"> <img src="https://img.shields.io/badge/Twitter-%231560BD.svg?style=for-the-badge&logo=twitter&logoColor=white"/> </a> </p>
+
+<h3 Tools & Mediums>
+<p align="center"> <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/> <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS"/> <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/> <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/> <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/> </p>
+
+<h3 Activity & Stats>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=blueberry&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=blueberry&hide_border=true" width="48%" /> </p>
+
+<h3 Gallery Notes>
+
+“Elegance is in the harmony of restraint.”
+Curated by code, framed by experience.
+
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&style=flat-square"/> </p>
