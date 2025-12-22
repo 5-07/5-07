@@ -1,5 +1,5 @@
 <!-- 🌈 Aesthetic Header using Capsule-Render -->
-<img src="https://giphy.com/gifs/movie-film-eHQ5BsgBIBIGI">via GIPHY</img>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhtbWhnaW51bmJmNXhoa3U0ZDVrbG1ya3QxbXR2NmJqbW5nMWthMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif"></img>
 
 <h1 align="center">Hi, I’m <strong>Muzaina</strong> 👨‍💻</h1>
 <p align="center">A passionate developer crafting beautiful experiences & efficient solutions.</p>
