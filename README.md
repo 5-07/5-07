@@ -1,7 +1,5 @@
 <!-- 🌈 Aesthetic Header using Capsule-Render -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&textBg=false&animation=twinkling&fontColor=FFFF" alt="Aesthetic Header"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&textBg=false&animation=twinkling&fontColor=FFFF)
 
 <h1 align="center">Hi, I’m <strong>Your Name</strong> 👨‍💻</h1>
 <p align="center">A passionate developer crafting beautiful experiences & efficient solutions.</p>
