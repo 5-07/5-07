@@ -1,8 +1,8 @@
 <!-- 🌈 Aesthetic Header using Capsule-Render -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhtbWhnaW51bmJmNXhoa3U0ZDVrbG1ya3QxbXR2NmJqbW5nMWthMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif"></img>
 
-<h1 align="center">Hi, I’m <strong>Muzaina</strong> 👨‍💻</h1>
-<p align="center">A passionate developer crafting beautiful experiences & efficient solutions.</p>
+<h1 align="left">Hi, I’m <strong>Muzaina</strong> 👨‍💻</h1>
+<p align="left">A passionate developer crafting beautiful experiences & efficient solutions.</p>
 
 ---
 
@@ -24,4 +24,4 @@ Currently: "Working on Open Source / Learning New Things"
 📫 Let's Connect
 <p align="center"> <a href="https://linkedin.com/in/yourhandle"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat"/> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat"/> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&style=flat"/> </a> </p>
 📊 GitHub Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical" alt="GitHub Stats"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical" alt="Top Languages"/> </p>
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=5-07&show_icons=true&theme=radical" alt="GitHub Stats"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5-07&layout=compact&theme=radical" alt="Top Languages"/> </p>
