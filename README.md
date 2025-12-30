@@ -16,7 +16,8 @@ Currently: "Working on Open Source / Learning New Things"
 ```
 💻 Tech Stack
 <p align="center"> <!-- Add icons for languages & frameworks --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/> <!-- Add more as needed --> </p>
-🔭 Projects
+🔭 Other Contributions:
+https://github.com/stars/5-07/lists/contributions
 
 
 👉 Check out more: https://github.com/5-07?tab=repositories
